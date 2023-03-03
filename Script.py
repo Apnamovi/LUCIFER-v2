@@ -186,16 +186,13 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ɢʀᴏᴜᴘ : <a href='https://t.me/at3movies'>AT3MOVIES</a>
-=========== • ✠ • ===========</b>"""
+<b>🗂️ Title : {file_name} @LusiFilms</b>
+📥 Size : <b>{file_size}</b>
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</a>
+🌹                     🌹
+➪ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>𝘽𝙮 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣</a> 👈
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🎪 Tɪᴛʟᴇ : <a href={url}>{title}</a>
