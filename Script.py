@@ -1,27 +1,49 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {},</b>
+Iᴍ Tᴇʟᴇɢʀᴀᴍ Mᴏᴠɪᴇꜱ Fɪʟᴇ Pʀᴏᴠɪᴅᴇʀ Bᴏᴛ
+
+Bʏ Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ Jᴏɪɴ Aɴᴅ Wᴀᴛᴄʜ
+
+Cʟɪᴄᴋ Tᴏ Bʏ 👉 <a href=https://cosmofeed.com/vig/63f24db0a03c46001fc9e803>Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</a>
+
+✯ 𝟷 Mᴏɴᴛʜ = 𝟸𝟶ʀꜱ
+
+✯ 𝟹 ᴍᴏɴᴛʜ = 𝟻𝟻ʀꜱ
+
+✯ 𝟼 ᴍᴏɴᴛʜ = 𝟷𝟷𝟶ʀꜱ
+
+🌹 Cʟɪᴄᴋ Sᴜʙꜱᴄʀɪᴘᴛɪᴏɴ Lɪɴᴋ
+
+🌹 Sᴇʟᴇᴄᴛ Pʟᴀɴ
+
+🌹 Eɴᴛᴇʀ Mᴏʙʟᴇ Nᴜᴍʙᴇʀ
+
+🌹 Fɪʟʟ OTP
+
+🌹 Cʜᴏᴏꜱᴇ ᴘᴀʏᴍᴇɴᴛ, Aɴᴅ Pᴀʏ
+
+🌹 Yᴏᴜ Gᴇᴛ Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ Lɪɴᴋ"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Creater : <a href="https://t.me/crazyspiderr">『🦞』༺𓆩𝑹𝒐𝒍𝒆𝒙𓆪࿐</a>
+🕵‍♂ Creater : <a href="https://t.me/mindsboss">『🦞』༺M༙i༙n༙d༙s༙ b༙o༙s༙s༙𓆪࿐</a>
 📚 Library : <a href='https://docs.pyrogram.org/'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 🖥 Language : <a href='https://www.python.org/download/releases/3.0/'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
-🧑‍💻 Developer : <a href='https://t.me/AFxSU'>🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a>
+🧑‍💻 Developer : <a href='https://t.me/AFxSU'>🍒M༙i༙n༙d༙s༙ b༙o༙s༙s༙✨🦋</a>
 🎪 Data Base : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
 📡 Server : <a href='https://t.me/quickfastt'>QuickFast</a>
 🔋 Bot Group : <a href='https://t.me/at3movies'>MovieGroup</a> </b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
-- ꜱource⚡️ - <a href="https://github.com/MyBotzz/RashmikaBot">ʜᴇʀᴇ</a>
+- ꜱource⚡️ - <a href="https://github.com/Apnamovi/Lucifer-v2">ʜᴇʀᴇ</a>
 
 Dᴇᴠs:
-- <a href="https://t.me/crazyspiderr">『🦞』༺𓆩𝑹𝒐𝒍𝒆𝒙𓆪࿐</a>
+- <a href="https://t.me/mindsboss">M༙i༙n༙d༙s༙ b༙o༙s༙s༙</a>
 
-- <a href="https://t.me/AFxSU">🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a></b>"""
+- <a href="https://t.me/mindsboss">🍒M༙i༙n༙d༙s༙ b༙o༙s༙s༙✨🦋</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -42,7 +64,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/The_File_Updates)</code>
+<code>[Button Text](buttonurl:https://t.me/LusiFilms)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -137,9 +159,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Jᴋ Kᴜᴍᴀʀ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Mindsboss
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/LusiFilms'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -157,11 +179,11 @@ Nᴀᴍᴇ - {}"""
 
 ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted
+ᴇxᴀᴍᴘʟᴇ : Mᴀʀɪ 𝟸 ❌, Mᴀᴀʀɪ 𝟸 ✅
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©𝑆𝑎𝑑𝑖𝑒 𝑆𝑖𝑛𝑘"""
+©Lᴜꜱɪ Fɪʟᴍꜱ"""
 
     SINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
@@ -174,7 +196,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©𝑆𝑎𝑑𝑖𝑒 𝑆𝑖𝑛𝑘"""
+©Lᴜꜱɪ Fɪʟᴍꜱ"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -185,9 +207,10 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """
-<b>🗂️ Title : {file_name} @LusiFilms</b>
+    CAPTION = """<b>🗂️ Title : {file_name} @LusiFilms</b>
+
 📥 Size : <b>{file_size}</b>
+
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ➪ Jᴏɪɴ👉 <a href=https://t.me/LusiFilms>𝗟𝘂𝘀𝗶𝗙𝗶𝗹𝗺𝘀</a>
 🌹                     🌹
