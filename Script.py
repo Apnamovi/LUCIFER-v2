@@ -33,8 +33,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 🖥 Language : <a href='https://www.python.org/download/releases/3.0/'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
 🧑‍💻 Developer : <a href='https://t.me/AFxSU'>🍒M༙i༙n༙d༙s༙ b༙o༙s༙s༙✨🦋</a>
 🎪 Data Base : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-📡 Server : <a href='https://t.me/quickfastt'>QuickFast</a>
-🔋 Bot Group : <a href='https://t.me/at3movies'>MovieGroup</a> </b>"""
+📡 Server : <a href='https://t.me/quickfastt'>QuickFast</a>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
